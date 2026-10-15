@@ -241,4 +241,4 @@ This repository serves as the official landing page for Blood Frontier. The soft
 **Get the most recent version of Blood Frontier today!**
 
 ---
-**Last updated:** 2026-10-15 16:34:22 UTC
+**Last updated:** 2026-10-15 20:11:54 UTC
